@@ -24,8 +24,9 @@ For example:
 
 - ### 4. Set up a Git alias  
 So you can use `git upload` instead of `git-upload`:
-```bash
-git config --global alias.upload "!C:/Users/<YourName>/scripts/git-upload.bat"
+type into the terminal:
+
+### git config --global alias.upload "!C:/Users/<YourName>/scripts/git-upload.bat"
 
 # Usage
 Navigate to a Git repository and run:
