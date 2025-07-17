@@ -41,7 +41,7 @@ Prompts you for a commit message.
 Automatically runs:
 
 - git add -A
-- git commit -m "<your message>"
+- git commit -m " your message "
 - git push
 
 
