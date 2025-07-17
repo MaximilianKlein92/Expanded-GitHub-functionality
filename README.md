@@ -26,7 +26,7 @@ For example:
 So you can use `git upload` instead of `git-upload`:
 type into the terminal:
 
-### git config --global alias.upload "!C:/Users/<YourName>/scripts/git-upload.bat"
+### *git config --global alias.upload "!C:/Users/<YourName>/scripts/git-upload.bat"*
 
 # Usage
 Navigate to a Git repository and run:
@@ -40,9 +40,9 @@ Prompts you for a commit message.
 
 Automatically runs:
 
-- git add -A
-- git commit -m " your message "
-- git push
+**- git add -A**
+**- git commit -m " your message "**
+**- git push**
 
 
 ✅ Why use it?
