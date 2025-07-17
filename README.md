@@ -54,4 +54,4 @@ every time is too much work.
 
 Now you just need one command:
 
-git upload
+# git upload
