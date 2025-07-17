@@ -40,9 +40,9 @@ Prompts you for a commit message.
 
 Automatically runs:
 
-**- git add -A**
-**- git commit -m " your message "**
-**- git push**
+- git add -A
+- git commit -m " your message "
+- git push
 
 
 ✅ Why use it?
