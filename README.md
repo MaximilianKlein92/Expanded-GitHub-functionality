@@ -22,7 +22,7 @@ For example:
 - Open: *Control Panel → System → Advanced System Settings → Environment Variables*
 - Under **User Variables → Path → Edit → New**, add your path
 
-- ### 4. Set up a Git alias  
+### 4. Set up a Git alias  
 So you can use `git upload` instead of `git-upload`:
 type into the terminal:
 
